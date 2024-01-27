@@ -1,2 +1,2 @@
 # Proyecto-Hotel
-Sistema para la gestion de Hoteles
+Prototipo de sistema para la gestion de Hoteles.
